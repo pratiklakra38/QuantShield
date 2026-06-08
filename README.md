@@ -1,4 +1,4 @@
-# QuantShield 🛡️
+# QuantShield 
 
 **AI-Powered Portfolio Risk Intelligence System**
 
