@@ -3,7 +3,7 @@ import requests
 import json
 import ast
 
-st.set_page_config(page_title="Risk Monitoring System", layout="wide", page_icon="🛡️")
+st.set_page_config(page_title="Risk Monitoring System", layout="wide", page_icon="")
 
 API_URL = "http://localhost:8000/api/v1/risk/predict"
 
